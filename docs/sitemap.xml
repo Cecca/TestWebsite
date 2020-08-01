@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://cecca.github.io/TestWebsite/</loc>
     <lastmod>2020-08-01T21:33:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/other-post/</loc>
+    <loc>https://cecca.github.io/TestWebsite/posts/other-post/</loc>
     <lastmod>2020-08-01T21:33:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://cecca.github.io/TestWebsite/posts/</loc>
     <lastmod>2020-08-01T21:33:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://cecca.github.io/TestWebsite/posts/my-first-post/</loc>
     <lastmod>2020-08-01T23:29:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pages/</loc>
+    <loc>https://cecca.github.io/TestWebsite/pages/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://cecca.github.io/TestWebsite/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://cecca.github.io/TestWebsite/tags/</loc>
   </url>
   
 </urlset>
