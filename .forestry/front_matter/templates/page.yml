@@ -10,4 +10,4 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Text
+  label: Title
